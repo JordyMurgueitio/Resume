@@ -1,0 +1,78 @@
+/* Font Style for the document */
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+/* Left Section */
+
+#left-section {
+    background-color: rgb(0, 0, 0);
+}
+#contenido {
+    background-color:rgb(0, 0, 0) ;
+    color: white;
+}
+#photo img {
+    width: 100%;
+    border-radius: 50%;
+}
+#photo h2 {
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    text-align: center;
+}
+
+#right-container {
+    background-color: rgb(0, 0, 0);
+}
+
+#work-experience {
+    color: teal;
+}
+.experience-box h5{
+    color: white;
+    font-weight: 500;
+}
+.experience-box h6 {
+    color: rgb(255, 255, 255);
+}
+.experience-box h6 i {
+    color: rgb(255, 255, 255);
+}
+.experience-box p {
+    color: white;
+}
+
+#education {
+    color: teal;
+}
+.education-box h5{
+    color: white;
+    font-weight: 500;
+}
+.education-box h6 {
+    color: rgb(255, 255, 255);
+}
+.education-box h6 i {
+    color: rgb(255, 255, 255);
+}
+.education-box p {
+    color: white;
+}
+.education-box a {
+    text-decoration: none;
+}
+
+footer {
+    color: white;
+    background-color: rgb(7, 7, 7);
+}
+footer p {
+    font-size: 1.5em;
+}
+footer a {
+    font-size: 2em;
+    margin-right: 20px;
+}
