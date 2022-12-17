@@ -14,9 +14,13 @@ body {
     background-color:rgb(0, 0, 0) ;
     color: white;
 }
+#photo {
+    text-align: center;
+}
 #photo img {
     width: 100%;
     border-radius: 50%;
+    max-width: 300px;
 }
 #photo h2 {
     color: rgb(255, 255, 255);
@@ -33,7 +37,7 @@ body {
 }
 .experience-box h5{
     color: white;
-    font-weight: 500;
+    font-weight: 400;
 }
 .experience-box h6 {
     color: rgb(255, 255, 255);
@@ -63,6 +67,7 @@ body {
 }
 .education-box a {
     text-decoration: none;
+    color: teal;
 }
 
 footer {
