@@ -66,8 +66,11 @@ body {
     color: white;
 }
 .education-box a {
-    text-decoration: none;
-    color: teal;
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+}
+.education-box a:hover {
+    color: gray;
 }
 
 footer {
